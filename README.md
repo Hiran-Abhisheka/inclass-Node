@@ -79,6 +79,3 @@ http://localhost:3000
 - body-parser
 - Node.js
 
-## Author
-
-Created as an in-class exercise for Node.js development
